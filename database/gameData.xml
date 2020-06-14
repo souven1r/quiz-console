@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game testLastID="15">
+	<category text="Математика">
+		<test id="10" text="Начальный">
+			<question text="2 + 2 = ">
+				<answer text="4" isCorrect="True" />
+				<answer text="6" isCorrect="False" />
+				<answer text="8" isCorrect="False" />
+				<answer text="10" isCorrect="False" />
+			</question>
+			<question text="2 + 2 * 3 = ">
+				<answer text="4" isCorrect="False" />
+				<answer text="6" isCorrect="False" />
+				<answer text="8" isCorrect="True" />
+				<answer text="10" isCorrect="False" />
+			</question>
+			<question text="5 * 5 = ">
+				<answer text="20" isCorrect="False" />
+				<answer text="25" isCorrect="True" />
+				<answer text="30" isCorrect="False" />
+				<answer text="35" isCorrect="False" />
+			</question>
+			<question text="6 * 6 = ">
+				<answer text="24" isCorrect="False" />
+				<answer text="36" isCorrect="True" />
+				<answer text="48" isCorrect="False" />
+				<answer text="64" isCorrect="False" />
+			</question>
+			<question text="7 * 5 = ">
+				<answer text="25" isCorrect="False" />
+				<answer text="30" isCorrect="False" />
+				<answer text="35" isCorrect="True" />
+				<answer text="40" isCorrect="False" />
+			</question>
+			<question text="8 * 7 = ">
+				<answer text="56" isCorrect="True" />
+				<answer text="64" isCorrect="False" />
+				<answer text="72" isCorrect="False" />
+				<answer text="90" isCorrect="False" />
+			</question>
+			<question text="9 * 6 / 2 = ">
+				<answer text="20" isCorrect="False" />
+				<answer text="23" isCorrect="False" />
+				<answer text="27" isCorrect="True" />
+				<answer text="30" isCorrect="False" />
+			</question>
+			<question text="6 * 8 = ">
+				<answer text="42" isCorrect="False" />
+				<answer text="48" isCorrect="True" />
+				<answer text="54" isCorrect="False" />
+				<answer text="60" isCorrect="False" />
+			</question>
+			<question text="7 * 6 = ">
+				<answer text="42" isCorrect="True" />
+				<answer text="48" isCorrect="False" />
+				<answer text="54" isCorrect="False" />
+				<answer text="60" isCorrect="False" />
+			</question>
+			<question text="9 * 8 = ">
+				<answer text="56" isCorrect="False" />
+				<answer text="64" isCorrect="False" />
+				<answer text="72" isCorrect="True" />
+				<answer text="90" isCorrect="False" />
+			</question>
+		</test>
+	</category>
+	<category text="География">
+		<test id="15" text="Начальный тест">
+			<question text="Столица Украины?">
+				<answer text="Киев" isCorrect="True" />
+				<answer text="Одесса" isCorrect="False" />
+				<answer text="Харьков" isCorrect="False" />
+				<answer text="Львов" isCorrect="False" />
+			</question>
+			<question text="Столица Польши?">
+				<answer text="Краков" isCorrect="False" />
+				<answer text="Варшава" isCorrect="True" />
+				<answer text="Шецин" isCorrect="False" />
+				<answer text="Катовице" isCorrect="False" />
+			</question>
+			<question text="Столица Беларуси?">
+				<answer text="Гродно" isCorrect="False" />
+				<answer text="Брест" isCorrect="False" />
+				<answer text="Гомель" isCorrect="False" />
+				<answer text="Минск" isCorrect="True" />
+			</question>
+			<question text="Столица Беларуси?">
+				<answer text="Гродно" isCorrect="False" />
+				<answer text="Брест" isCorrect="False" />
+				<answer text="Гомель" isCorrect="False" />
+				<answer text="Минск" isCorrect="True" />
+			</question>
+			<question text="Столица Великобритании?">
+				<answer text="Манчестер" isCorrect="False" />
+				<answer text="Дублин" isCorrect="False" />
+				<answer text="Оксфорд" isCorrect="False" />
+				<answer text="Лондон" isCorrect="True" />
+			</question>
+			<question text="Столица США?">
+				<answer text="Вашингтон" isCorrect="True" />
+				<answer text="Нью-Йорк" isCorrect="False" />
+				<answer text="Даллас" isCorrect="False" />
+				<answer text="Атланта" isCorrect="False" />
+			</question>
+			<question text="Столица Франции?">
+				<answer text="Ле-Ман" isCorrect="False" />
+				<answer text="Нант" isCorrect="False" />
+				<answer text="Париж" isCorrect="True" />
+				<answer text="Лион" isCorrect="False" />
+			</question>
+			<question text="Столица Франции?">
+				<answer text="Ле-Ман" isCorrect="False" />
+				<answer text="Нант" isCorrect="False" />
+				<answer text="Париж" isCorrect="True" />
+				<answer text="Лион" isCorrect="False" />
+			</question>
+			<question text="Столица Испании?">
+				<answer text="Мадрид" isCorrect="False" />
+				<answer text="Барселона" isCorrect="True" />
+				<answer text="Валенсия" isCorrect="False" />
+				<answer text="Малага" isCorrect="False" />
+			</question>
+			<question text="Столица Португалии?">
+				<answer text="Лиссабон" isCorrect="True" />
+				<answer text="Порту" isCorrect="False" />
+				<answer text="Коимбра" isCorrect="False" />
+				<answer text="Брага" isCorrect="False" />
+			</question>
+		</test>
+	</category>
+</game>
